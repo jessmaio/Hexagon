@@ -513,3 +513,4 @@ void pq_free(PriorityQueue* pq) {
     pq->size = 0;
     pq->capacity = 0;
 }
+
